@@ -1,150 +1,159 @@
-# Bible: SAN FRANCISCO STRIKE
+# Bible: FRISCO FRACTURE
 
 ## Story Premise
 
-Twenty-three-year-old PROJECT MIRROR operative Amy Cooper must infiltrate her ex-boyfriend Marcus Webb's radical collective planning domestic bombings. Operating under cover identity "Sarah Mitchell," Amy discovers the psychological horror at PROJECT MIRROR's core: she's built her cover too close to her real self. Marcus falls for Sarah for the same reasons he loved Amy, and she can't tell where the performance ends and reality begins. With 48 hours until bombings kill dozens, Amy must extract intelligence while her identity fractures—then decide whether to arrest the man she still loves or let mass murder happen.
+Rebecca "Bex" Morrison, 29-year-old PROJECT MIRROR operative, must infiltrate her ex-boyfriend's Soviet-backed radical safe house network in 1975 San Francisco. To sell her cover identity "Willow," Bex must resurrect her 1967 radical self—the true believer who loved Marcus Webb before she burned out and disappeared. But Marcus isn't the villain: his lieutenant Karl is a KGB handler manipulating Marcus's genuine revolutionary fervor to execute a mass-casualty bombing. Bex must expose the Soviet operation, save Marcus from becoming a terrorist, and stop a bombing—while fighting the psychological fracture of becoming who she used to be and discovering her old beliefs were justified.
 
 ## Heroine Profile
 
-**Name:** Amy Cooper
-**Age:** 23
-**Physical:** Petite frame, 5'4", naturally light brown hair (dyes frequently), hazel eyes (wears colored contacts for roles), unmarked skin, forgettable face that becomes memorable when performing. Moves differently depending on role—fluid, adaptive physicality.
+**Name:** Rebecca "Bex" Morrison
+**Age:** 29 (born 1946)
+**Physical:** 5'6", lean from years of barely eating, light brown hair she wore long in the 60s (now short and practical), blue eyes, aging hippie features weathered by hard living. Moves with practiced invisibility—chameleon reflex from years blending into scenes. Face shows mileage: late nights, bad drugs, disillusionment etched into features.
 
-**Working-Class Background:** Theater actress in San Francisco, barely scraping rent working box office at ACT (American Conservatory Theater) while performing in experimental basement shows. Father was high school drama teacher in Sacramento, mother was seamstress—trained Amy to watch people, mimic patterns. Grew up lower-middle-class, scholarships paid for one year at SF State before she dropped out to act full-time. Natural chameleon since childhood—became different people instinctively to navigate social situations.
+**Working-Class Background:** Raised in Fresno, father was auto mechanic, mother worked cannery. Ran away to San Francisco at 19 (1965) chasing the counterculture dream. Lived in Haight-Ashbury communes, crash pads, streets. Worked medical tents during demonstrations (first-aid from watching her mom patch up her dad's shop accidents). Helped runaways survive—finding food, dodging cops, navigating street economy. Natural chameleon: could talk like a radical, look like a flower child, disappear into straight society when necessary. Survived through adaptation.
 
-**Program Recruitment:** PROJECT MIRROR recruited her after scout watched her one-woman show where she played eight distinct characters. Scout realized her "acting" wasn't technique—she genuinely became different people, complete personality shifts, no visible seams. Recruited at 21, told they needed infiltration specialists who could disappear into cover identities completely.
+**Program Recruitment:** By 1973, the dream was dead. Haight had collapsed into hard drugs and violence. Bex hit bottom—friends OD'd, communes evicted, nowhere left to run. FBI had been monitoring radical groups, noticed Bex's gift: she could slide between identities, trusted by everyone, invisible when needed. They approached her at free clinic after she'd been up three days helping overdose cases. Offered her PROJECT MIRROR: structure, purpose, salary, training. She was 27, exhausted, disillusioned. She took it.
 
-**Training:** Eighteen months of deep-cover work: behavioral mimicry, identity construction, psychological compartmentalization, maintaining multiple personas simultaneously. Excelled at becoming targets' ideal companion—mirroring speech patterns, adopting mannerisms, building chemistry through observation. Warning drilled constantly: never build cover identity too close to real self or boundary dissolves.
+**Training:** Two years (1973-1975) at CIA facility outside Sacramento. Deep-cover identity work, behavioral mimicry, psychological compartmentalization. PROJECT MIRROR training is brutal—pushes operatives to dissociate completely, lose core self, become new people at neurological level. Some recruits fracture permanently. Bex survived by strict compartmentalization: she could be Bex OR be the mission, never both simultaneously. Built walls in her mind. Graduated 1975, deployed immediately to San Francisco—back to the city that broke her, back to the scene she escaped.
 
 **Core Skills:**
-- Instant behavioral mimicry (watches someone 20 minutes, can replicate speech/movement)
-- Identity assumption (becomes cover so completely she thinks in character)
-- Psychological flexibility (switches personas without transition tells)
-- Limited combat training (basic self-defense, not a fighter)
-- Observation/pattern recognition (reads people to build mirror personas)
+- Identity assumption (can inhabit personas completely, not just perform them)
+- Behavioral mimicry (adopts speech patterns, mannerisms, belief systems organically)
+- Psychological compartmentalization (separates identities to prevent fracture—until this mission)
+- Street survival (reads danger, navigates underground economies, blends into counterculture)
+- Basic first-aid/medical knowledge (from demonstration medical tents)
+- Limited combat training (self-defense, not offensive)
 
-**Personality:** Naturally empathetic to dangerous degree—feels what others feel, becomes what they need. Insecure about real identity (acting since childhood means "Amy" might not exist). Eager to please handlers, desperate to prove worth. Lonely—can't maintain real relationships when constantly performing. Idealistic about espionage (thought it would give her purpose). Theater background makes her dramatic, prone to emotional intensity.
+**Personality:** Haunted by who she was. Bex in 1967 was idealistic, angry, passionate—believed the revolution would change everything. Bex in 1975 is cynical, controlled, hollow. Joined PROJECT MIRROR to escape her past, but the program weaponized her chameleon gift and now deploys her directly into that past. Deeply compartmentalized—has to be, or she'd fracture. Loyal to handler because he saved her from the streets. Terrified of losing herself, which is exactly what this mission requires.
 
-**Voice Notes:** First-person POV when deep in cover, tight third-person when she's Amy. Internal monologue is questioning, self-doubting, theatrical (references plays, characters, performances). Thinks in terms of roles and scenes. Narrative style shifts subtly when she's Sarah vs. Amy—blurring intentionally to show identity fracture.
+**Voice Notes:** Tight third-person when she's Bex (operative, controlled, analytical). First-person when she's deep in Willow cover (immersive, emotional, bleeding into old beliefs). Narrative style shifts to show identity fracture—Bex chapters are clinical, Willow chapters are passionate. By Act 3, the voices merge into confusion: she doesn't know which is real.
 
-**Emotional Wound:** Doesn't know who she actually is—been playing roles since childhood, no stable sense of self. Joined PROJECT MIRROR hoping espionage would give her authentic purpose. Instead, it's destroying the last fragments of Amy Cooper.
+**Emotional Wound:** Survivor's guilt from leaving the scene. Friends died, overdosed, got arrested—Bex escaped by becoming someone else (literally, now). Doesn't know if she ever believed in the revolution or just wanted to belong. Doesn't know if she's Bex Morrison or a series of covers with no core. Joining PROJECT MIRROR was supposed to give her purpose; instead it's forcing her to confront that her 1967 self had legitimate grievances the system never addressed.
 
 ## Villain Profile
 
-**Name:** Marcus Webb
-**Age:** 26
-**Physical:** Tall, lean, intense—dark hair to shoulders, wire-rim glasses, beard, always in denim jacket covered in radical pins. Looks like graduate student (was, before he dropped out). Burning eyes, speaks with professor's precision combined with revolutionary's passion.
+**Name:** Karl Brenner (real name: Anatoly Kuznetsov)
+**Age:** 38
+**Physical:** Tall, solid build, prematurely gray hair, intense pale eyes. Looks like aging graduate student—wire-rim glasses, turtlenecks, intellectual affect. Moves with military precision disguised as academic distraction. Cold handshake, evaluating stare, never fully relaxed.
 
-**Background:** Berkeley philosophy PhD dropout. Upper-middle-class background (professor parents) that he rejected violently. Radicalized by Kent State shootings—watched National Guard murder students on TV, decided system was irredeemable. Spent two years in radical underground, progressing from protests to property damage to planning actual violence. Soviet contacts found him through West Coast radical networks, provided funding and tactical support for domestic bombing campaign.
+**Background:** KGB officer, deep-cover specialist, embedded in American radical left since 1969. Legitimate cover: sociology graduate student studying protest movements (actually mapping networks for Soviet intelligence). Found Marcus Webb in 1972—charismatic radical leader with genuine followers. Recognized operational potential: manipulate Marcus's real revolutionary fervor to execute Soviet destabilization goals. Became Marcus's "trusted lieutenant," feeding him tactical advice, Soviet funding, intelligence on targets. Marcus thinks Karl is fellow traveler; Karl is running him like an asset.
 
-**Operations:** Runs network of San Francisco safe houses sheltering radical fugitives and planning operations. Legitimate cover as bookstore clerk in Haight-Ashbury. Coordinates with Soviet handlers who want domestic chaos—dead Americans, government crisis, anti-war movement weaponized. Plans simultaneous bombings: military recruitment center (kill soldiers/recruiters) and BART station (mass civilian casualties). Backup target ensures if one bomb is found, the other still detonates.
+**Operations:** Manages Marcus's safe house network as Soviet intelligence operation. Shelters genuine radicals (to maintain cover) while recruiting operatives for active measures. Coordinates with Soviet handlers through dead drops and encrypted book codes. Current operation: bombing of Oakland military recruitment center, timed for maximum casualties. Marcus thinks it's symbolic strike against war machine. Karl structured it for mass civilian deaths—women, children, office workers in adjacent building. Wants American blood on TV to radicalize anti-war movement and discredit U.S. government.
 
-**Signature M.O.:** Intellectualizes murder. Quotes Fanon, Marcuse, Che while planning mass casualty events. Treats violence as philosophical necessity—clean, abstract, justified by theory. Keeps bombing plans in notebooks mixed with poetry. Gentle with collective members but coldly rational about civilian deaths. The cognitive dissonance is his evil: capable of love and tenderness while scheduling massacre.
+**Signature M.O.:** Manipulates true believers. Finds passionate people with legitimate grievances (Marcus, other radicals) and weaponizes their idealism for Soviet propaganda. Treats them as expendable tools. Calm, rational, intellectual presentation while engineering mass murder. Quotes revolutionary theory while planning to sacrifice his "comrades" for geopolitical strategy. Will kill Marcus if necessary—has no attachment, pure operational focus.
 
-**Personality:** Charismatic idealist turned true believer. Articulate, passionate, seductive when discussing revolution. Genuinely believes violence will wake America from capitalist nightmare. Loves deeply (loved Amy, loves Sarah) but subordinates everything to ideology. Paranoid about infiltrators but blinded by emotional need—wants Sarah so badly he ignores red flags. Wounded by Amy's earlier departure, sees Sarah as second chance.
+**Personality:** Professional intelligence officer playing radical role. Charismatic when needed, ruthless when necessary, emotionally disconnected from consequences. Views American radicals with contempt—useful idiots serving Soviet interests. Paranoid about infiltration (correct instinct), methodical about counterintelligence. Suspects Willow but can't prove it. When exposed, doesn't plead ideology—just fights to complete mission. He's a soldier, not a believer.
 
-**Cartoon Evil Moment:** When explaining backup bomb to collective, he calmly notes BART casualties will be "workers and bourgeoisie—acceptable revolutionary cost." No hesitation, no doubt. Kills abstractions, not people in his mind.
+**Cartoon Evil Moment:** When Bex discovers his notes, Karl has calculated civilian casualties for "optimal media impact"—children's deaths will play best on news. Treats murder as propaganda math. Cold, clinical, utterly inhuman beneath the radical disguise.
 
 ## Handler & Supporting Characters
 
-**Handler - Robert Castellano:** Mid-40s, career CIA officer, PROJECT MIRROR supervisor. Gruff, competent, genuinely concerned about operatives' psychological health but mission comes first. Warned Amy about identity bleeding, watches her deteriorate, feels guilty but keeps her operational. Smokes constantly, meets in safe houses, knows this mission is burning her out.
+**Handler - Thomas "Tom" Garrett:** Early 50s, career FBI counterintelligence officer, PROJECT MIRROR liaison. Ex-military (Korea), crew cut going gray, cheap suits, chain-smokes Camels. Recruited Bex from the gutter, genuinely believes he saved her. Sees operatives as assets but maintains professional concern—knows PROJECT MIRROR destroys people, does it anyway for mission success. Gruff, direct, paternalistic. Recognizes Bex is fracturing during mission, orders extraction, loses contact when she goes rogue. Final scenes show his guilt—he created this situation.
 
-**Elena Vasquez:** Collective member, 24, former nursing student, genuine believer in revolution. Befriends Sarah, doesn't suspect infiltration. Represents what Amy might have become if circumstances differed—working-class woman radicalized by system that crushed her dreams. Makes Amy's betrayal more painful.
+**Marcus Webb "The Professor":** 31, Bex's ex-boyfriend from 1967-68. Berkeley philosophy grad student turned full-time radical. Upper-middle-class background (professor parents) he rejected after Kent State. Tall, intense, still handsome under the wear. Passionate speaker, genuine believer, charismatic leader. Taught young Bex about systemic oppression, gave her political framework for her rage. They were in love. She disappeared in 1968 without explanation (actually: her breakdown, his commune got too dangerous). He never understood why. Now runs safe house network, thinks he's building revolution. Doesn't know Karl is using him. When Bex reveals herself, his betrayal is total—but so is his realization he's been played.
 
-**David Park:** Bomb-maker, 28, physics grad student dropout, quiet and precise. Builds devices methodically, treats explosives like science experiments. Not ideological—just likes the technical challenge. Unsettling calm about mass murder.
+**Sunny:** 23, safe house regular, genuine flower child who never got the memo the 60s ended. Sweet, trusting, damaged. Befriends Willow, represents who Bex might have become if she stayed. Makes Bex's betrayal more painful—Sunny will be arrested in FBI raid.
 
-**Carol Webb:** Marcus's sister, 30, social worker, doesn't know about his radical activities. Amy encounters her once during surveillance—sees Marcus's other life, his family who'll be destroyed when he's arrested.
+**Rita Walsh:** Safe house member, 26, former nursing student, practical and skeptical. Questions Willow's sudden appearance and perfect radical credentials. Counterpoint to Sunny—Rita suspects infiltration but can't prove it. Makes Bex's operational security harder.
 
 ## Setting Details
 
-**Location:** San Francisco, 1977. Post-Summer of Love decay, radical underground gone from flowers to bombs, counterculture curdled into violence.
+**Location:** San Francisco, 1975. Post-Summer of Love decay. Haight-Ashbury is burned-out shell—hippies replaced by junkies, communes by crack houses, idealism by desperation.
 
 **Key Venues:**
 
-**The Safe House (Mission District):** Victorian flatshare, peeling paint, radical posters covering walls, mattresses on floors, communal kitchen with revolutionary theory books stacked on table. Smells like incense, marijuana, mimeograph ink. Windows covered with blankets. Collective meetings happen here—Marcus holding court, everyone sitting on floor, intensity and paranoia thick as smoke.
+**The Safe House (Haight-Ashbury Victorian):** Three-story 1890s Victorian, peeling paint, boarded windows, commune living. Main floor: communal kitchen (revolutionary literature stacked on table), meeting room (folding chairs, radical posters, mimeograph machine). Upper floors: mattresses on floors, sleeping bags, transient population. Basement: weapons cache, bomb-making materials, Karl's private room (locked). Smells like incense, marijuana, mimeograph ink, unwashed bodies. This is where Bex lived in 1967—returning here as Willow is psychological torture.
 
-**Red Star Books (Haight-Ashbury):** Marcus's cover job. Narrow bookstore, radical literature, back room where real business happens. Smell of old paper and coffee. Conspiracy maps on walls, coded communication with Soviet handlers through book orders. Amy as Sarah spends hours here, watching Marcus work, boundaries dissolving.
+**Golden Gate Park:** Where young Bex and Marcus spent 1967 together. Meadows for free concerts (now empty), redwood groves (now haunted), Haight edge where they'd talk revolution until dawn. Bex returns here during mission—same locations, same conversations, but she's wearing wire and he doesn't know who she is. Fog makes everything dreamlike, unstable.
 
-**ACT Theater (Downtown):** Amy's legitimate life before recruitment. Where she performed, where she was herself (if she ever was). Returned briefly between training sessions—can't perform anymore, the roles feel hollow compared to espionage.
+**Red Star Books (North Beach):** Marcus's legitimate cover. Narrow storefront, radical literature, coffee, meeting space for above-ground organizing. Back room: dead drops, coded communications, planning sessions. Bex worked here in 1967 (met Marcus when he hired her). Returning as Willow creates operational advantage (knows the layout) and psychological damage (every corner has memories).
 
-**Golden Gate Park:** Where Amy and Marcus dated two years ago. Returns with him as Sarah—same locations, same conversations, different name. Psychological horror of repetition. Park's fog and redwoods make everything feel dreamlike, unreal.
+**FBI Safe House (Marina District):** Where Bex meets handler. Clean, sterile, anonymous apartment. Coffee, cigarette smoke, dead drops. Tom Garrett debriefs her here, watches her fracture, orders extraction from this location. Represents the institutional world Bex serves—cold, professional, opposed to everything her 1967 self believed.
 
-**1970s Period Details:** Pre-gentrification Mission District (Latino working-class, cheap rent, radical haven). BART system new (opened 1972). Watergate aftermath—institutional distrust everywhere. Vietnam War winding down but wounds fresh. Radical underground fractured, desperate, turning violent. Surveillance technology primitive (pay phones, dead drops, no digital trail). SF's fog and hills create operational challenges and atmospheric dread.
+**1970s Period Details:** Post-Watergate distrust of all institutions. Vietnam War ended (Fall of Saigon, April 1975—just months before this mission). Counterculture collapsed into hard drugs, violence, exploitation. Haight-Ashbury is pre-gentrification decay—cheap rent, dangerous streets, burned-out idealists. Technology is primitive (pay phones, dead drops, typed reports). Surveillance requires human assets. FBI has COINTELPRO background (illegal operations against radicals) making Bex's mission ethically complex.
 
-**Operational Geography:** Amy moves between ACT theater (her cover past), safe house (Sarah's operational center), handler meetings (neutral cafes, Golden Gate overlooks), and reconnaissance sites (recruitment center, BART stations). City's layout enables quick escapes—cable cars, steep hills, fog for cover. But also claustrophobic—radical community is small, everyone knows everyone, hard to maintain dual identity.
+**Operational Geography:** Bex moves between safe house (Haight), dead drops (various city locations), FBI safe house (Marina), and reconnaissance sites (Oakland recruitment center). San Francisco's hills, fog, and Victorian architecture create operational challenges—hard to maintain surveillance, easy to lose tails, atmospheric and claustrophobic simultaneously. The city itself is character: beautiful, decaying, haunted by failed dreams.
 
 ## Mission Parameters
 
-**Official Assignment:** Infiltrate Marcus Webb's radical collective, identify bombing targets and timeline, extract before raid. Intelligence suggests Soviet-backed domestic terror cell planning major attack. PROJECT MIRROR asset needed because previous CIA infiltration attempts failed—radicals are paranoid, tight-knit, ideologically screened. Need someone who can become exactly who Marcus wants.
+**Official Assignment:** Infiltrate Marcus Webb's Soviet-backed radical network, identify bombing target and timeline, gather evidence of foreign intelligence operation, extract before FBI raid. Need human asset because technical surveillance failed—radicals are paranoid, security-conscious, tight-knit. PROJECT MIRROR operative required to become trusted insider.
 
-**Actual Stakes:** Prevent mass casualty bombing of military and civilian targets within 48-hour window. Primary target: Armed Forces Recruitment Center (15-20 casualties estimated). Secondary/backup target: BART station during rush hour (40+ casualties estimated). Simultaneous detonation planned for Kent State anniversary. Backup system ensures if one bomb found, other still detonates.
+**Actual Stakes:** Prevent mass-casualty bombing of Oakland military recruitment center (estimated 40+ deaths including civilians in adjacent offices). Exposure of Soviet active measures campaign using American radicals as unwitting assets. Dismantlement of safe house network sheltering fugitives. Marcus's arrest—he's FBI's ultimate target, not just the bombing.
 
 **Operational Constraints:**
-- Deep cover required—no handler contact except dead drops
-- Must maintain Sarah Mitchell identity completely (blown cover = mission failure + possible death)
-- 48-hour hard deadline once bombing date confirmed
-- No backup—Amy is solo asset, collective will kill suspected infiltrators
-- Extraction must happen before raid or Amy's cover prevents escape
+- Deep cover required—Bex lives in safe house, no regular handler contact
+- Must use dead drops for communication (checked every 48 hours)
+- No backup—solo asset, if cover blown she's likely killed by radicals
+- Time limit unclear until she's inside (discovers 2-week timeline to bombing)
+- Extraction protocol: signal handler, wait 24 hours for FBI coordination
+- Psychological constraint: Marcus is her ex-boyfriend from 1967-68
 
 **Mission Complications:**
-Amy knows target personally. Marcus is her ex-boyfriend from two years prior—dated before PROJECT MIRROR recruitment. Handler initially unaware of connection. When revealed, handler decides to exploit it: build cover identity similar enough to attract Marcus, different enough he won't recognize her. But Amy builds Sarah too close to her real self. Marcus falls for Sarah because Sarah IS Amy with different hair and name. Identity boundary dissolves. Amy can't tell if her feelings are real, operational, or constructed. By mission end, she's psychologically fractured—completed mission but destroyed herself.
+
+**Personal History:** Marcus Webb was Bex's introduction to radical politics and her first love. They dated 1967-68 when she was 21-22, he was 24-25. He taught her about systemic oppression, gave her framework for understanding her working-class rage. She disappeared without explanation in 1968 (actually: psychological breakdown from commune violence and drug culture). He never understood why she left. Now he's her target.
+
+**Identity Construction:** To infiltrate convincingly, Bex must create cover identity "Willow"—burned-out former radical returning to scene after years away. But to sell this identity, she must become who she actually was in 1967: the true believer. PROJECT MIRROR trained her to become other people. This mission requires becoming her former self. The psychological trap: her compartmentalization walls fail because Willow IS Bex (1967 version), not a separate construction.
+
+**Ideological Crisis:** Living as Willow means remembering what she believed and why. The system WAS corrupt. The war WAS wrong. Her rage WAS justified. Marcus's critiques of American imperialism remain valid. She's supposed to be operative fighting Soviet infiltration, but her 1967 self agrees with the radical analysis even as her 1975 self knows the violence is wrong.
+
+**Handler Break:** Midway through mission, Tom Garrett recognizes Bex is psychologically compromised—her reports show emotional attachment, ideological wavering, identity confusion. He orders extraction. Bex refuses and goes rogue. She's convinced she can save Marcus from Karl's manipulation AND stop the bombing. She cuts handler contact, operates independently, violates every protocol. She's no longer PROJECT MIRROR asset—she's Bex/Willow hybrid trying to rescue her past.
 
 ## Spy Paranoia Elements
 
-**Primary Double-Cross:** Amy is the double-cross. She's Sarah who is Amy. The infiltrator is the ex-girlfriend. Marcus's new love is his old betrayal returned. But he doesn't know, so the paranoia is Amy's—she's betraying him constantly just by existing in his space.
+**Soviet Handler Revelation:** Karl appears to be Marcus's trusted lieutenant and fellow radical. Actually KGB deep-cover officer running Marcus as unwitting asset. Bex's mission is to expose foreign intelligence operation, but she must first identify who the handler is. Karl suspects Willow from the start—runs counterintelligence against her while she's running intelligence against him. Mutual spy-vs-spy paranoia.
 
-**Handler Loyalty:** Castellano knows this mission is psychologically destroying Amy. Keeps her operational anyway. She reports identity bleeding, he tells her to maintain cover. When she's fracturing, he extracts intelligence then sends her back. Handler is loyal to mission, not operative. Amy realizes too late.
+**Handler Loyalty:** Tom Garrett saved Bex from the streets, trained her, deployed her. She's loyal. But when he orders extraction (recognizing she's fracturing), she disobeys. Is he protecting her mental health or protecting CIA's investment? Does he care about her or just the mission? When she goes rogue, is he concerned or just angry she's off-script? Bex doesn't know, can't trust her own handler.
 
-**Mission Authenticity:** Is CIA actually preventing bombing, or are they letting it develop to justify raid on radical movement? Castellano's urgency feels performative sometimes. Amy suspects she's gathering intel for larger political operation, bombing is pretext.
+**Willow's Authenticity:** Other safe house members are paranoid about infiltrators (justified—Bex IS infiltrator). Sunny trusts Willow completely. Rita suspects her. Marcus feels familiar connection but can't place it. Karl runs active counterintelligence—tests her knowledge of radical theory, watches her behavior, checks her backstory. Bex passes tests by being authentic: she's not faking 1967 radical beliefs because she actually held them. But this means she's not fully performing—she's remembering. Is Willow a cover or is Bex the cover?
 
-**Collective Paranoia:** Marcus's group is hypervigilant about infiltrators. They screen new members, test loyalty, watch for behavioral tells. Sarah gets accepted because Amy's mimicry is perfect—she became exactly who Marcus wants. But other collective members are suspicious. Elena asks probing questions. David watches Sarah too carefully. Amy never knows if she's blown.
+**Mission Authenticity:** Bex begins questioning whether FBI wants to stop bombing or wants bombing to happen so they can justify larger crackdown on radical left. Tom Garrett pushes for intelligence gathering, not immediate intervention. Is he waiting for arrests or waiting for propaganda opportunity? Post-COINTELPRO era: FBI has history of illegal operations against radicals. Is Bex preventing violence or enabling it?
 
-**Factional Infighting:** PROJECT MIRROR is experimental, controversial within CIA. Castellano hints other factions want program shut down. This mission might be test case—if Amy succeeds, program survives. If she fails or fractures, they'll kill PROJECT MIRROR. Amy is fighting for program's existence while it destroys her mind.
+**Marcus's Manipulation:** Bex believes she's saving Marcus from Karl's manipulation. But is she? Marcus chose violence. He planned the bombing. Karl provided resources and tactical advice, but Marcus's rage is genuine. Is Bex creating narrative where Marcus is innocent victim to avoid confronting that the man she loved became a terrorist by his own choice?
 
-**The Real Question:** By final act, Amy doesn't know what's real. Are her feelings for Marcus authentic or operational? Is Sarah a cover or her true self? Was Amy Cooper ever real, or has she always been performing? The spy paranoia turns inward—she can't trust her own identity.
+**Identity Paranoia (Core):** Who is Bex Morrison? Operative? Former radical? Willow? All three? None? She's been so many people that "Bex" might be just another construction. PROJECT MIRROR warned: lose yourself too completely and you can't come back. By Act 3, she doesn't know which version is real. The paranoia isn't external—it's internal. She's the double agent betraying herself.
 
 ## Tone & Voice Guidelines
 
-**Narrative Style:** Psychological spy thriller with identity horror undertones. First-person when Amy is deep in Sarah cover (blurred, uncertain, immersive). Tight third-person when she's trying to be Amy (distant, analytical, fractured). Style shifts mirror her mental state—seamless Sarah chapters vs. fragmented Amy moments.
+**Narrative Style:** Psychological identity thriller with 1970s political atmosphere. Shifts between tight third-person (Bex as operative: clinical, controlled) and first-person (Willow/deep cover: immersive, passionate, bleeding into old beliefs). Style itself becomes unreliable—reader experiences Bex's fracture through narrative voice instability.
 
-**Pacing:** Deliberate in Act 1 (identity construction), accelerating in Act 2 (mission urgency + psychological breakdown), relentless in Act 3 (48-hour countdown + identity collapse). Not as kinetic as other series entries—more psychological pressure than physical action until final confrontation.
+**Pacing:** Methodical in Act 1 (identity construction, infiltration). Accelerating in Act 2 (mission complications, psychological deterioration, going rogue). Relentless in Act 3 (bombing countdown, exposure, climax). More psychological pressure than physical action until final confrontation—this is spy thriller, not action thriller.
 
-**Violence Level:** Lower body count than typical series (this is infiltration, not combat). Violence is intimate when it occurs—Amy's hand-to-hand with Marcus, FBI raids. Psychological violence throughout (identity destruction, emotional betrayal, self-erasure).
+**Violence Level:** Lower body count than typical series. Violence is intimate when it occurs: Karl's shootout with FBI, Marcus tackling Karl on the bomb, Bex's identity revelation as psychological violence. Primary damage is internal—identity destruction, belief system collapse, relationship annihilation.
 
-**Emotional Register:** Anxious, dissociative, yearning. Amy wants to be real but doesn't know how. Loves Marcus but that might be Sarah's love, or operational love, or real love she can't distinguish anymore. Desperate to complete mission and desperate to flee it. Constant low-grade identity panic.
+**Emotional Register:** Haunted, dissociative, yearning for authenticity. Bex wants to know who she really is. Loved Marcus in 1967, might still love him, or maybe Willow loves him and Bex is just remembering. Grief for lost idealism (1967 beliefs were legitimate). Guilt for betraying people she's lived with. Desperation to complete mission while losing grip on reality. Constant low-grade identity panic escalating to full fracture.
 
-**Period Cynicism:** Post-Watergate distrust of institutions (CIA using her, handlers lying, mission motives unclear). Post-Vietnam moral exhaustion (violence as political tool, everyone compromised). Counterculture dream collapsed into paranoia and bombs.
+**Period Authenticity:** Post-Watergate cynicism (all institutions lie). Post-Vietnam exhaustion (violence solved nothing). Counterculture collapse (dream died, junkies remain). Working-class economic anxiety (1975 recession). Technology constraints shape tradecraft (dead drops, pay phones, typed reports). Cultural attitudes authentic to era (not modernized). References to specific 1975 events: Fall of Saigon, COINTELPRO revelations, recession, Patty Hearst trial.
 
 ## Personal Stakes
 
-**What She Risks:** Her identity. Not just cover blown—Amy Cooper as coherent person. Every hour she's Sarah, Amy dissolves further. By mission end, she genuinely doesn't know which version is real. Also risks: Marcus's life (she still loves him), her own sanity (PROJECT MIRROR warning was real), her future as operative (can't do this work if she can't find herself again).
+**What She Risks:** Her identity—not just cover blown, but Bex Morrison as coherent person destroyed. Every hour as Willow, she remembers being 1967 Bex who actually believed. The compartmentalization walls fail. She risks: Marcus's life (still loves him), her own sanity (fracturing under identity pressure), her career (goes rogue, violates protocols), her soul (betraying people who trust her, destroying community that once saved her).
 
-**What She Loses Even If She Wins:** Herself. Mission succeeds, bombs prevented, Marcus arrested. But Amy is gone. She completed mission by becoming Sarah who is Amy, and now both are false. Can't act anymore (doesn't know which performance is authentic). Can't operate anymore (next deep cover will erase her completely). Marcus hates her (doesn't know if real Amy ever existed). She's 23, won the mission, lost her mind.
+**What She Loses Even If She Wins:** Herself. Mission succeeds: bombing prevented, Karl killed, network dismantled, Marcus arrested. But Bex is gone. She became Willow who was 1967 Bex, and now all three are false. Can't be operative anymore (PROJECT MIRROR recognizes she's fractured). Can't be civilian (no identity to return to). Can't be radical (that world is destroyed). Marcus hates her (ultimate betrayal from his first love). She's 29, won the mission, lost her mind.
 
-**Why This Mission Costs More:** Other operatives infiltrate strangers. Amy infiltrated her own past, dated her ex-boyfriend as someone else, fell in love with him again while betraying him completely. Every moment of intimacy was operational necessity and genuine feeling and constructed lie simultaneously. Can't separate them. The mission didn't just risk her identity—it executed it.
+**Why This Mission Costs More:** Other operatives infiltrate strangers. Bex infiltrated her own past, loved her target, resurrected her dead self, discovered her old beliefs were valid, then destroyed everyone and everything from that era including herself. The mission didn't risk her identity—it executed it. She prevented mass murder by committing psychological suicide.
 
 ## Thematic Elements
 
-**What This Story Is About:** The cost of becoming someone else. PROJECT MIRROR weaponizes Amy's gift for mimicry, but gifts are curses. She's so good at being other people that she erases herself. The question: if you can become anyone, are you ever anyone at all?
+**What This Story Is About:** The cost of becoming who you used to be. Bex thought she escaped her radical past by joining PROJECT MIRROR. The program sent her back, forced her to resurrect 1967 Bex, and discovered that version was real—maybe the only real version. What happens when your past self had better values than your present self? What if you were right when you were young and wrong when you grew up?
 
-**The Question It Asks:** Where is the boundary between performance and reality? If you perform love convincingly enough, is it real? If you become someone else completely, does your original self still exist?
+**The Question It Asks:** Can you ever escape who you were? If you change identities enough times, does a true self exist underneath? Were the radicals right about the system even if their methods were wrong? Is there moral difference between government violence (Vietnam) and revolutionary violence (bombings)?
 
-**The Answer It Gives:** There is no boundary. Amy thought she was playing Sarah. Sarah was Amy playing herself. The performance consumed the performer. Some missions succeed by destroying the operative. Victory is annihilation. She saved lives by losing her own—not death, but dissolution. The spy won. The person ceased to exist.
+**The Answer It Gives:** You can't escape yourself—you can only fragment into pieces. Bex was a radical, became an operative, became a radical again, and now is neither. No true self exists—just accumulated performances with no core. The radicals were right about systemic problems but wrong about violence. The government was right to stop bombings but wrong about everything the radicals criticized. Everyone is compromised. Victory is annihilation. She saved lives by destroying the person who would have cared about saving them.
 
-**Emotional Core:** Identity horror. Not body horror or supernatural horror—the terror of losing yourself, of discovering you might never have existed, of becoming everyone and no one simultaneously. Amy is 23, talented, empathetic, eager to serve. PROJECT MIRROR took those qualities and burned her out from the inside. She's a ghost in her own life now.
+**Emotional Core:** Survivor's guilt transformed into identity horror. Bex survived the 60s by leaving. Friends died, she lived. Now she's returned to destroy the survivors. She's the reaper of her own past. The mission forces her to confront: what if she was more authentic in 1967 than 1975? What if the radical girl was real and the operative is the mask? The horror isn't becoming someone else—it's discovering you already were someone else and forgot.
 
 ## Program Background
 
-**PROJECT MIRROR Overview:** CIA program recruiting individuals with extreme behavioral mimicry capabilities. Premise: some people naturally mirror others (chameleons, actors, con artists). With training, they can become deep-cover assets who don't just fake identities—they genuinely become them. Psychological risk is total: operatives can lose themselves in cover, fracture identity, develop dissociative disorders.
+**PROJECT MIRROR Overview:** CIA program recruiting individuals with extreme behavioral mimicry and identity assumption capabilities. Premise: some people are natural chameleons (con artists, method actors, lifelong survivors). With training, they become deep-cover assets who don't perform identities—they inhabit them at psychological level. Extreme operational value (undetectable infiltrators) balanced by catastrophic risk (permanent identity fracture, dissociative disorders, psychological casualties).
 
-**Amy's Recruitment:** Scout watched her one-woman show at basement theater in North Beach. Eight characters, seamless transitions, audiences couldn't track it was same performer. Scout recognized operational potential: actress who genuinely becomes roles could infiltrate anyone anywhere. Approached her after show, sold espionage as adventure and purpose. Amy was broke, lonely, searching for meaning. Signed immediately.
+**Bex's Recruitment:** FBI counterintelligence monitoring radical groups in San Francisco noticed pattern: Rebecca Morrison appeared in multiple networks, trusted by everyone, no consistent identity. Sometimes street medic, sometimes commune organizer, sometimes straight-world infiltrator helping runaways. She was chameleon surviving through adaptation. When she hit bottom in 1973 (OD'd friends, scene collapsed, nowhere to go), FBI approached. Tom Garrett recruited her to PROJECT MIRROR: salary, training, purpose. She was 27, broken, desperate. She joined.
 
-**Training (18 months):** Behavioral psychology, identity construction, method acting weaponized into tradecraft. Trained at CIA facility outside Sacramento (close to her hometown—psychological manipulation to keep her compliant). Built and inhabited multiple practice identities. Pushed to extremes: become someone, live as them for weeks, snap back to Amy. Warning repeated constantly: maintain boundary between cover and self, or risk permanent identity dissolution. Amy excelled so thoroughly she scared supervisors. They deployed her anyway.
+**Training (1973-1975):** Two years at CIA facility. Identity construction, behavioral psychology, method acting weaponized into tradecraft. Pushed to extremes: build identity, live as them for weeks, snap back to baseline. Some recruits fracture permanently—develop dissociative disorders, lose core self, require psychiatric institutionalization. Bex survived through compartmentalization: she built walls between identities, never let them bleed. Became perfect operative—could be anyone, return to Bex cleanly. Graduated top of cohort. Deployed immediately to San Francisco mission. The training worked until it didn't.
 
-**Program's Current Status:** Experimental, controversial, politically toxic. Congressional oversight committees question ethics (brainwashing American citizens into CIA assets?). Rival CIA factions want PROJECT MIRROR shut down—too risky, too expensive, too likely to create psychological casualties. This mission is prove-it case. Amy succeeds, program survives. Amy fractures, program dies. She's fighting for her handlers' careers while they destroy her mind.
+**Program's Current Status:** Experimental, controversial, under congressional investigation post-COINTELPRO revelations. Ethics questions: Is CIA brainwashing American citizens? Creating psychological casualties? Operating domestically (illegal)? Program survival depends on successful operations proving value. Bex's mission is test case: can PROJECT MIRROR operatives infiltrate and dismantle Soviet active measures? If she succeeds cleanly, program continues. If she fractures publicly, program dies. Tom Garrett fighting for program's existence while it destroys his operatives.
 
-**Amy's Relationship to Program:** Started idealistic (finally found purpose, using gifts for good). Now terrified. Realized too late PROJECT MIRROR doesn't create spies—it erases people and replaces them with operational tools. Loves Castellano (handler saved her from poverty and aimlessness) but hates him (he's watching her dissolve and keeping her operational). After mission, quits program, quits theater, quits performing. Needs to find Amy Cooper before she's gone forever. But might be too late.
+**Bex's Relationship to Program:** Started grateful (Tom saved her from streets, gave her purpose). Became competent (training revealed she was naturally gifted). Now terrified (mission is destroying her exactly as training warned). Realizes too late PROJECT MIRROR doesn't create spies—it erases people and replaces them with operational tools. Tom is father figure who's weaponizing her psychological damage. After mission, she's psychiatric casualty. Quits program, can't function in civilian life, undergoes therapy, never fully recovers. She won the mission. Lost Rebecca Morrison. Some victories are executions.
 
 ---
 
-**WORD COUNT:** 2,987 words
+**WORD COUNT:** 2,998 words
